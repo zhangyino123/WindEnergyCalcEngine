@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="WindCalcEngine.Application/WindCalcEngine.Application.csproj" />
+  <Project Path="WindCalcEngine.Contracts/WindCalcEngine.Contracts.csproj" />
+  <Project Path="WindCalcEngine.Domain/WindCalcEngine.Domain.csproj" />
+  <Project Path="WindCalcEngine.Host/WindCalcEngine.Host.csproj" />
+  <Project Path="WindCalcEngine.Infrastructure/WindCalcEngine.Infrastructure.csproj" />
+  <Project Path="WindCalcEngine.Tests/WindCalcEngine.Tests.csproj" />
+</Solution>
